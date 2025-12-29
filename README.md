@@ -1,5 +1,5 @@
 👤 Sobre mí
-¡Hola! Soy Alan Flores. Tras completar mi formación en educación media superior, decidí volcar mi camino hacia el mundo del análisis de datos. Soy una persona resiliente y disciplinada, acostumbrada a combinar el trabajo duro con el aprendizaje constante. Actualmente, me especializo en transformar datos crudos en información valiosa mediante herramientas de análisis, enfocado en resolver problemas reales de negocio.
+"Soy Alan Flores, analista de datos en formación con una mentalidad orientada a la disciplina y la superación. Mi transición hacia el análisis de datos nació de una curiosidad natural por entender el porqué de las cosas y cómo las métricas pueden optimizar procesos. Me especializo en procesar datos crudos para extraer información que facilite la toma de decisiones. Me defino como una persona resiliente, capaz de autogestionar mi aprendizaje y de aportar una visión analítica y estructurada ante problemas de negocio complejos. Busco oportunidades donde pueda aplicar mi rigor técnico para ayudar a empresas a ser más competitivas."
 
 📍 Ubicado en: Ciudad de México
 
